@@ -1,2 +1,3 @@
-<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/47929e2a-7c37-438f-846c-b60e90d20394" />
+<img width="1200" height="630" alt="Labs v2" src="https://github.com/user-attachments/assets/6c18e38c-799e-4c39-a63e-2087ed7864ea" />
+
 
